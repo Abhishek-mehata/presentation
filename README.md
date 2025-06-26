@@ -11,7 +11,7 @@ struct Process {
 
 // Function to swap two processes (used in sorting)
 void swap(struct Process *a, struct Process *b) {
-    struct Process temp = *a;
+    struct Process temp = *a;ssss
     *a = *b;
     *b = temp;
 }
