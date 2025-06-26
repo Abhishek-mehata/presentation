@@ -9,7 +9,7 @@ struct Process {
     int tat;        // Turnaround Time
 };
 
-// Function to swap two processes (used in sorting)
+// Function to swap two processes (used in sorting)sdsdd
 void swap(struct Process *a, struct Process *b) {
     struct Process temp = *a;ssss
     *a = *b;
